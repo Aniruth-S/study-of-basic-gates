@@ -68,7 +68,7 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 
  Developed by: RegisterNumber: 25017728
 
- module Gate_1 (
+    module Gate_1 (
     input  wire a,     // Input A
     input  wire b,     // Input B
     output wire and_out,
